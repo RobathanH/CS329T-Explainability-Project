@@ -1,0 +1,9 @@
+*.pyc
+.ipynb_checkpoints
+__pycache__
+
+
+attribution_results/*
+compiled_data/*
+fairness_results/*
+models/*
